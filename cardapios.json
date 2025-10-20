@@ -1,0 +1,52 @@
+
+[
+  {
+    "data": "2025-09-19T00:00:00-03:00",
+    "turno": "integral",
+    "refeicao": {
+      "titulo": "almoco",
+      "itens": ["arroz", "feijão", "couve", "farofa", "laranja"],
+      "bebida": "suco",
+      "img": ["/img/img1.png"]
+    },
+    "lanche": {
+      "titulo": "lanche",
+      "itens": ["biscoito"],
+      "bebida": "suco",
+      "img": ["/img/img1.png","/img/img1.png"]
+    }
+  },
+  {
+    "data": "2025-09-19T00:00:00-03:00",
+    "turno": "manhã",
+    "refeicao": {
+      "titulo": "almoco",
+      "horario": "9:30",
+      "itens": ["arroz", "feijão", "couve", "farofa", "laranja"],
+      "bebida": "suco",
+      "img": ["/img/img1.png","/img/img1.png"]
+    }
+  },
+  {
+    "data": "2025-09-19T00:00:00-03:00",
+    "turno": "tarde",
+    "refeicao": {
+      "titulo": "merenda",
+      "horario": "15:00",
+      "itens": ["arroz", "feijão", "couve", "farofa", "laranja"],
+      "bebida": "suco",
+      "img": ["/img/img1.png","/img/img1.png"]
+    }
+  },
+  {
+    "data": "2025-09-19T00:00:00-03:00",
+    "turno": "noturno",
+    "refeicao": {
+      "titulo": "Janta",
+      "horario": "20:10",
+      "itens": ["arroz", "feijão", "couve", "farofa", "laranja"],
+      "bebida": "suco",
+      "img": ["/img/img1.png","/img/img1.png"]
+    }
+  }
+]
